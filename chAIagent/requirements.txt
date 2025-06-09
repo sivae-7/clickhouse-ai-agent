@@ -1,0 +1,8 @@
+agno
+ollama
+uvicorn
+clickhouse-driver
+aiosqlite
+fastapi
+faiss-cpu 
+sentence-transformers

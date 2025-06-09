@@ -1,0 +1,17 @@
+# Virtual environments
+chAIagent/env/
+chAIagent/env311/
+
+# Python cache
+chAIagent/__pycache__/
+
+# DB files and pickles
+chAIagent/memory.db
+chAIagent/vector_data.pkl
+chAIagent/vector.index
+
+# OS-generated files
+chAIagent/.DS_Store
+
+# Secrets (if any)
+*.yaml
